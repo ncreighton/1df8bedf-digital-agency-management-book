@@ -24,8 +24,6 @@ This Chrome extension turns your browser into a centralized command center where
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://devforgetools.gumroad.com/l/ipciib)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/dRm28rdPp1g0g88avOcZu3T)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://devforgetools.gumroad.com/l/ipciib)
 
 ## License
 
